@@ -1,0 +1,2 @@
+INSERT INTO merchantTable (merchantName,uid,pass,products,sgst,cgst,price) VALUES ("Aakash Pahwa","admin","admin","Kurkure 155g;Pillsbury Cak
+e 25g;AA Battery 10V;Nike V6;Park Avenue 150ml DEO","5;5;5;5;5","5;5;5;5;5","10;10;18;1999;150");
